@@ -1,0 +1,22 @@
+nav {
+    background-color: #5c5b5b;
+}
+
+ul {
+    padding-left: 10px
+}
+
+li {
+    display: inline-block;
+}
+
+a {
+    color: silver;
+    text-decoration: none;
+    padding: 0 15px
+}
+
+a:hover {
+    color:rgb(124, 230, 247);
+    background: rgb(18, 54, 29);
+}
